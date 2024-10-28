@@ -53,3 +53,21 @@ img {
   margin-bottom: 20px;
   margin-top: 20px;
 }
+
+.home-page {
+  width: 500px;
+  height: auto;
+  margin: 50px auto;
+}
+
+.caramel-latte{
+  padding-bottom: 10px;
+}
+
+.creme-caramel{
+  padding-bottom: 10px;
+}
+
+.pool-sandwich{
+  padding-bottom: 10px;
+}

@@ -1,10 +1,9 @@
 # odin-recipes
 
-HTML <!>
+Welcome to my first TOP prject.
 
-The aim of this project is to showcase some recipes.
+It's still a work in progress, but I'm happy with with it.
 
-This is a TOP project (the first) only containing HTML, 
+In this project, I have to build a Recipe Website with HTML, CSS, and JS later on.
 
-
-for now...
+Entire project is subject to change. 
